@@ -1,4 +1,3 @@
-const allure = require('allure-commandline')
 export const config: WebdriverIO.Config = {
     //
     // ====================
